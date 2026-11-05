@@ -1,0 +1,46 @@
+{
+  "doctors": [
+    {
+      "id": "1",
+      "name": "علي",
+      "specialty": "اطفال",
+      "city": "حلب",
+      "fee": 200,
+      "available": true
+    },
+    {
+      "id": "2",
+      "name": "محمد",
+      "specialty": "داخلية",
+      "city": "دمشق",
+      "fee": 250,
+      "available": false
+    },
+    {
+      "id": "3",
+      "name": "نور",
+      "specialty": "ولادة",
+      "city": "القاهرة",
+      "fee": 100,
+      "available": true
+    },
+    {
+      "id": "4",
+      "name": "أحمد",
+      "specialty": "عظمية",
+      "city": "تركيا",
+      "fee": 200,
+      "available": true
+    },
+    {
+      "id": "5",
+      "name": "حمزة",
+      "specialty": "قلبية",
+      "city": "حلب",
+      "fee": 300,
+      "available": false
+    }
+  ],
+  "users": [],
+  "appointments": []
+}
